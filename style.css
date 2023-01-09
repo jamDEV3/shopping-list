@@ -1,0 +1,38 @@
+h1 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.shop-wrap {
+    padding: 20px;
+}
+
+#add-item {       
+    width: 30%;
+}
+
+.check-item {
+    padding-left: 30px;
+    margin: 0px 20px 0px 20px;
+}
+
+.delete {
+    float: right;
+}
+
+.checkbox {
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    #container {
+        width: 90%;
+    }
+    h1 {
+        font-size: 200%;
+    }
+    #add-item {       
+        width: 70%;
+    }
+}
