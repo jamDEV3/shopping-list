@@ -1,13 +1,5 @@
-# VanillaJS-Shopping-List-Team-1
+Javascript Shopping List
 
-Hi Team 1!
+Note: This was a collaboration with other students in which we were tasked to design a Shopping List.
 
-Please write your name in this file:
-
-Jorge
-
-Marta
-
-Graeme
-
-Jamie
+My Contribution:
